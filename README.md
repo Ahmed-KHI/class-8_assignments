@@ -8,25 +8,21 @@ This repository contains 4 comprehensive assignments demonstrating mastery of AI
 **Status:** ✅ **COMPLETE**
 - **Technology:** Tavily API + Native Gemini AI
 - **Features:** Intelligent web search with contextual responses
-- **Grade Expectation:** A+ (95%)
 
 ### 🏆 **Assignment 2: Math Agent with Guardrails**
 **Status:** ✅ **COMPLETE**  
 - **Technology:** Native Gemini AI + Comprehensive Safety System
 - **Features:** Mathematical operations with input/output filtering
-- **Grade Expectation:** A+ (94%)
 
 ### 🏆 **Assignment 3: Dynamic Instructions System**
 **Status:** ✅ **COMPLETE**
 - **Technology:** Native Gemini AI + Context-Aware Personalization
 - **Features:** Hotel booking with user-specific recommendations
-- **Grade Expectation:** A+ (96%)
 
 ### 🏆 **Assignment 4: Advanced Customer Support Bot**
 **Status:** ✅ **COMPLETE**
 - **Technology:** Multi-Agent Architecture + Enterprise Guardrails
 - **Features:** Bot → Human → Supervisor escalation system
-- **Grade Expectation:** A+ (97%)
 
 ---
 
