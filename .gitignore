@@ -1,4 +1,11 @@
-# Python-generated files
+# 🔒 SECURITY - Never commit sensitive files
+.env
+.env.*
+*.env
+**/.env
+**/env
+
+# 🐍 Python-generated files
 __pycache__/
 *.py[oc]
 build/
@@ -6,5 +13,57 @@ dist/
 wheels/
 *.egg-info
 
-# Virtual environments
+# 🔧 Virtual environments
 .venv
+venv/
+ENV/
+env/
+.env/
+
+# 🔍 IDE & Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 💾 OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# 📊 Logs
+*.log
+logs/
+
+# 🗄️ Database
+*.db
+*.sqlite
+*.sqlite3
+
+# 🧪 Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.cache
+
+# 📦 Package files
+*.tar.gz
+*.zip
+
+# 🔑 API Keys and Secrets
+config.json
+secrets.json
+credentials.json
+api_keys.txt
+
+# 🚫 Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
